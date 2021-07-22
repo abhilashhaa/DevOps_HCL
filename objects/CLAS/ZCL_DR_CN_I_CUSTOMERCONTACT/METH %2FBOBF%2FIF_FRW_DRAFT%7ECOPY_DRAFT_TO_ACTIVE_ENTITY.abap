@@ -1,0 +1,2 @@
+  method /BOBF/IF_FRW_DRAFT~COPY_DRAFT_TO_ACTIVE_ENTITY.
+  endmethod.

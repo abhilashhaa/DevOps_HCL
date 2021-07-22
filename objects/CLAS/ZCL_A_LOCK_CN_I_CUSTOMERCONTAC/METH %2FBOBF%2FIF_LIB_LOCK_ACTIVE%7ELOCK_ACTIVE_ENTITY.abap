@@ -1,0 +1,2 @@
+  method /BOBF/IF_LIB_LOCK_ACTIVE~LOCK_ACTIVE_ENTITY.
+  endmethod.

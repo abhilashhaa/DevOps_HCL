@@ -15,3 +15,10 @@ steps:
     account: 'tp0i54ki3s'
     transportRequestUploadFile:
       applicationId: 'HCP'
+      
+      steps:
+       gctsExecuteABAPUnitTests:
+       host: 'https://hcluks4hana.hcldigilabs.com:8001'
+       client: '000'
+       abapCredentialsId: 'ABAPUserPasswordCredentialsId'
+       repository: 'DEMO-HCL'

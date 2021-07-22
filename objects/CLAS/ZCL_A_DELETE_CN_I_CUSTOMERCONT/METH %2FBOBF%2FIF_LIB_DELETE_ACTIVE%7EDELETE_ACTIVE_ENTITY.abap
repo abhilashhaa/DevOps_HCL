@@ -1,0 +1,2 @@
+  method /BOBF/IF_LIB_DELETE_ACTIVE~DELETE_ACTIVE_ENTITY.
+  endmethod.

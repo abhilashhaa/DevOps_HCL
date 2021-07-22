@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>001</KEY>
+<LANG>E</LANG>
+<ENTRY>Character Field Length = 10</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>002</KEY>
+<LANG>E</LANG>
+<ENTRY>Character Field Length = 10</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>E</LANG>
+<ENTRY>Character 100</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>004</KEY>
+<LANG>E</LANG>
+<ENTRY>Photo content</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>005</KEY>
+<LANG>E</LANG>
+<ENTRY>Notif.Date</ENTRY>
+<LENGTH>132</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>
