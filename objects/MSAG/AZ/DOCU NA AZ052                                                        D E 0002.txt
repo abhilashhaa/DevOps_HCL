@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Die in ID_IN_LIST_XXST (XXST steht für MAST, DOST, ... , CLST)          
+AS übergebenen IDs passen nicht zu dem zu selektierenden Stücklistentyp.   
+AS Die Bestimmung des zu selektierenden Stücklistentyps erfolgt mittels    
+AS SELECT_TABLENAME.                                                       
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

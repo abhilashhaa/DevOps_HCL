@@ -1,0 +1,15 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE FR                         
+U1 &USE&                                                                   
+AS Dans cette zone, vous pouvez limiter les valeurs/domaines définis pour  
+   les zones <LS>Option</>, <LS>Low</> et <LS>High</> à <LS>Inclusive</>   
+   ou <LS>Exclusive</>. Vous trouverez un liste des valeurs autorisées     
+   dans les constantes des                                                 
+   <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>domaines                      
+=  </> affectés.                                                           
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

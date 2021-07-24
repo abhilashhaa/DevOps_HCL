@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Beim internen Aufruf des Bausteins BOM_SELECT_NEXT_ID trat ein Fehler   
+AS auf.                                                                    
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

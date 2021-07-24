@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS An error occurred when calling the module BOM_INIT_SELECT_ID            
+   internally.                                                             
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

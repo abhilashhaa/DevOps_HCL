@@ -1,0 +1,23 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE DE                         
+U1 &USE&                                                                   
+AS In diesem Feld können Sie Selektionsoperatoren angeben. Es sind alle    
+   Operatoren erlaubt, die auch in Range-Tabellen verwendet werden. Eine   
+   Liste der zulässigen Werte finden Sie bei den Festwerten der            
+   zugeordneten <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>Domänen</>.      
+AS <ZH>Hinweis</>                                                          
+/  Bei den Optionen <LS>CP</> (contains pattern) und <LS>NP</> (no         
+   pattern) müssen die Felder <LS>LOW</> und <LS>HIGH</> vom Datentyp      
+   <LS>C</> (Character) sein, und das Feld <LS>LOW</> muß mindestens ein   
+   Maskierungszeichen enthalten. Hierbei maskiert <LS>+</> ein einzelnes   
+   Zeichen, während <LS>*</> eine beliebige Zeihenfolge maskiert, die auch 
+   leer sein kann. Die Maskierungszeichen sind nur beim Datentyp <LS>C</>  
+   erlaubt.                                                                
+AS Weitere Informationen über Selektionsoptionen und Ranges finden Sie in  
+   der R/3-Bibliothek in der Komponente <LS>ABAP Programmierung (BC)</>.   
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

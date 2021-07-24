@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS In der Tabelle IN_TABLE_LIST ist eine Tabelle zur Selektion angegeben,  
+AS die zum aktuellen Stücklistentyp nicht gelesen wird.                    
+AS Die Bestimmung des zu selektierenden Stücklistentyps erfolgt mittels    
+AS SELECT_TABLENAME.                                                       
+AS                                                                         
+AS Bsp. : Tabelle DOST wird für Materialstücklisten nicht gelesen.         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

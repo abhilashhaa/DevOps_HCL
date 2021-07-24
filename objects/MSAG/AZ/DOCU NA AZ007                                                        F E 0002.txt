@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Vous souhaitez sélectionner des données au moyen d'un extracteur et de  
+   la table &V1&. Or, Cette table n'est pas assistée.                      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Corrigez vos entrées pour la table qui devrait être utilisée pour       
+   sélectionner des données.                                               
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Sie wollten mittels einem Extraktor Daten über die Tabelle &V1&         
+   selektieren. Diese Tabelle wird jedoch nicht unterstützt.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte korrigieren Sie Ihre Eingaben für die Tabelle, über die die Daten 
+   selektiert werden sollen.                                               
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

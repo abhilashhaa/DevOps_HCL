@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Das Feld &V1& der Tabelle &V2& ist im Dictionary nicht bekannt.         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte überprüfen Sie Ihre Eingaben.                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

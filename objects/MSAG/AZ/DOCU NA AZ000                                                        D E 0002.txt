@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Im Parameter INOUT_NEXT_LIFNR wurde die Lieferantennummer &V1& als      
+   Aufsetzpunkt übergeben. Diese Lieferantennummer ist aber nicht in der   
+   Tabelle INOUT_LIFNR_TAB enthalten. Diese Inkonsistenz sollte            
+   normalerweise nicht auftreten, wenn bei Folgeaufrufen die Werte in      
+   INOUT_NEXT_LIFNR und INOUT_LIFNR_TAB so übergeben werden, wie sie beim  
+   vorangegangen Aufruf des Funktionsbausteins zurückgeliefert wurden.     
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte überprüfen Sie, wie es dazu kam, daß im Parameter                 
+   INOUT_NEXT_LIFNR eine falsche Lieferantennummer hinterlegt wurde. Evtl. 
+   wurde der Funktionsbaustein beim ersten Aufruf innerhalb einer Folge    
+   von geblockten Aufrufen nicht mit initialem Parameter INOUT_NEXT_LIFNR  
+   aufgerufen.                                                             
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

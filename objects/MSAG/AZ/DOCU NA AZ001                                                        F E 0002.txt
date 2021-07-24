@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Le numéro d'article &V1& a été transmis commme point d'entrée dans le   
+   paramètre NOUT_NEXT_MATNR. Or, ce numéro d'article ne se trouve pas     
+   dans la table INOUT_MATNR_TAB. Cette incohérence ne devrait pas         
+   survenir si les valeurs ont été transmises à INOUT_NEXT_MATNR et        
+   INOUT_MATNR_TAB en appels consécutifs exactement de la même manière     
+   dont elles ont été renvoyées lors de l'appel précédent du module        
+   fonction.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Essayez de trouver la raison pour laquelle ce numéro d'article          
+   incorrect a été mémorisé dans le paramètre INOUT_NEXT_MATNR. Il se peut 
+   que, lors du premier appel, le module fonction n'ait pas été appelé à   
+   l'aide du paramètre initial INOUT_NEXT_MATNR au sein d'une séquence     
+   d'appels bloqués.                                                       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

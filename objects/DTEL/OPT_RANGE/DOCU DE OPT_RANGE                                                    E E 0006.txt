@@ -1,0 +1,23 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE EN                         
+U1 &USE&                                                                   
+AS In this field, you can specify selection operators. All operators are   
+   allowed that are also used in range tables. For a list of the values    
+   allowed, see the fixed values for the                                   
+   <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>domains</> assigned.          
+AS <ZH>Note</>                                                             
+/  With options <LS>CP</> (contains pattern) and <LS>NP</> (no pattern),   
+   the fields <LS>LOW</> and <LS>HIGH</> must be of data type <LS>C</>     
+   (character), and the field <LS>LOW</> must contain at least one         
+   formatting character. <LS>+</> masks an individual character, and <LS>* 
+=  </> masks any character string, including a blank character string. The 
+   formatting characters are not allowed with data types other than <LS>C  
+=  </>.                                                                    
+AS For more information on selection options and ranges, see the R/3       
+   library documentation <LS>BC ABAP User's Guide</>.                      
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS La zone &V1& de la table &V2& n'existe pas dans le dictionnaire.        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Vérifiez vos entrées.                                                   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

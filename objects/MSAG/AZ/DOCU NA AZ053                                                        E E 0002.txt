@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS In IN_TABLE_LIST, a table was specified that is not read for the        
+   current bill of material (BOM) category.                                
+AS The BOM category to be selected is determined using SELECT_TABLENAME.   
+AS                                                                         
+AS Example: Table DOST is not read for material BOMs.                      
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

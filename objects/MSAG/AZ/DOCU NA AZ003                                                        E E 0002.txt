@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS In parameter INOUT_NEXT_KUNNR, customer number &V1& was transferred as  
+   the starting point. This customer number, however, is not contained in  
+   table INOUT_KUNNR_TAB. This inconsistency should normally not occur if  
+   the values are transferred to INOUT_NEXT_KUNNR and INOUT_KUNNR_TAB in   
+   subsequent calls as they were returned in previous calls of the         
+   function module.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Find out how an incorrect customer number was saved in parameter        
+   INOUT_NEXT_KUNNR. During the first call, the function module was        
+   possibly called without using the initial parameter INOUT_NEXT_KUNNR    
+   within a sequence of blocked calls.                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

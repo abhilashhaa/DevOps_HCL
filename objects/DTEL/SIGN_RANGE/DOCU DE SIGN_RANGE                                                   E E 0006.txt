@@ -1,0 +1,14 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE EN                         
+U1 &USE&                                                                   
+AS In this field, you can restrict the values/ranges, which have been      
+   defined with the fields <LS>Option</>, <LS>Low</>, and <LS>High         
+=  </>, to <LS>Inclusive</> or <LS>Exclusive</>. For a list of the values  
+   allowed, see the fixed values for the                                   
+   <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>domains</> assigned.          
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

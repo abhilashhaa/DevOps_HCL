@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS You can only select group BOMs or all plants by using the selection     
+   operator '='.                                                           
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

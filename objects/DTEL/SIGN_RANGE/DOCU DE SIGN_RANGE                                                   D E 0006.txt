@@ -1,0 +1,14 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE DE                         
+U1 &USE&                                                                   
+AS In diesem Feld können Sie die für die Felder <LS>Option</>, <LS>Low</>  
+   und <LS>High</> definierten Werte/Bereiche auf <LS>Inclusive</> oder    
+   <LS>Exclusive</> einschränken. Eine Liste der zulässigen Werte finden   
+   Sie bei den Festwerten der zugeordneten                                 
+   <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>Domänen</>.                   
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

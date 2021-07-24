@@ -1,0 +1,17 @@
+U1 &CAUSE&                                                                 
+AS Les extracteurs de données se composent en fait de deux parties :       
+B1 Un extracteur de clés permettant de déterminer les valeurs clés de la   
+   table d'en-tête.                                                        
+B1 Un extracteur de données qui retournent les données de toutes les       
+   tables assistées en commençant par les valeurs clés.                    
+AS Chaque extracteur consiste en deux modules (un module d'initialisation  
+   et un module permettant de déterminer les données suivantes). Le        
+   système ne parvient pas à appeler le module d'initialisation dans votre 
+   application.                                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS Corrigez votre programme de sorte qu'il soit possible d'appeler aussi   
+   les modules d'initialisation.                                           
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

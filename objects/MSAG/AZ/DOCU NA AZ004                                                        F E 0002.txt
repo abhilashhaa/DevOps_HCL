@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Le numéro de division &V1& a été transmis comme point d'entrée dans le  
+   paramètre INOUT_NEXT_WERKS. Or, ce numéro de division ne se trouve pas  
+   dans la table INOUT_WERKS_TAB. Cette incohérence ne devrait pas         
+   survenir si les valeurs ont été transmises à INOUT_NEXT_WERKS et        
+   INOUT_WERKS_TAB en appels consécutifs exactement de la même manière     
+   dont elles ont été renvoyées lors de l'appel précédent du module        
+   fonction.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Essayez de trouver la raison pour laquelle ce numéro de division        
+   incorrect a été mémorisé dans le paramètre NOUT_NEXT_WERKS. Il se peut  
+   que, lors du premier appel, le module fonction n'ait pas été appelé à   
+   l'aide du paramètre initial INOUT_NEXT_WERKS au sein d'une séquence     
+   d'appels bloqués.                                                       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

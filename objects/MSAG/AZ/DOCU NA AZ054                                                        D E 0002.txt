@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS In DATA_IN_RANGES wurden Felder eine Tabelle zur Selektion              
+   spezifiziert,                                                           
+AS die nicht zur Datenausgabe mittels IN_TABLE_LIST angefordert wurde.     
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

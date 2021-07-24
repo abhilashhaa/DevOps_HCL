@@ -1,0 +1,16 @@
+U1 &CAUSE&                                                                 
+AS Im parameter INOUT_NEXT_WERKS, plant number &V1& was transferred as the 
+   starting point. This plant number, however, is not contained in table   
+   INOUT_WERKS_TAB. Normally, this inconsistency should not occur if the   
+   values are transferred to INOUT_NEXT_WERKS and INOUT_WERKS_TAB in       
+   subsequent calls as they were returned in previous calls of the         
+   function module.                                                        
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Find out how an incorrect plant number was saved in parameter           
+   INOUT_NEXT_WERKS. During the first call, the function module was        
+   possibly called without using the initial parameter INOUT_NEXT_WERKS in 
+   a sequence of blocked calls.                                            
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

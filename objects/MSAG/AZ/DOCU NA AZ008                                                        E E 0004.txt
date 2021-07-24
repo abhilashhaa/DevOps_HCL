@@ -1,0 +1,15 @@
+U1 &CAUSE&                                                                 
+AS Data extractors consist of two parts:                                   
+B1 A key extractor for determining the key values of the header table.     
+B1 A data extractor that returns the data of all supported tables          
+   beginning with the key values.                                          
+AS Both extractors consist of two modules (an initialization module and a  
+   module for determining the next data). An initialization module was not 
+   called in your application.                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS Correct your program so that the initialization modules are also        
+   called.                                                                 
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

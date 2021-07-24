@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS Les données d'entrée du module fonction ont fait l'objet d'un contrôle. 
+   Le système contrôle d'une part les constantes au niveau des éléments de 
+   données, et d'autre part si les tables et noms de zone transmis aux     
+   critères de sélection existent dans le dictionnaire ABAP.               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verifiez les entrées utilisées pour l'appel du module fonction.         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Sie wollten sich Informationen über die Tabelle &V1& aus dem Dictionary 
+   ermitteln. Die Tabelle &V1& ist jedoch nicht im Dictionary vorhanden.   
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte überprüfen Sie Ihre Eingabe.                                      
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

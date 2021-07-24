@@ -1,0 +1,12 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE EN                         
+U1 &USE&                                                                   
+AS In this field, you can specify the selection values for the parameter   
+   <LS>HIGH</> within a range table. This field can be used only for type  
+   <LS>CHAR</> selection fields with a maximum length of 40 characters.    
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

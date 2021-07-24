@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Die Eingabedaten für den Funktionsbaustein wurden einer Prüfung         
+   unterzogen. Es werden einerseits Festwertprüfungen gegen Datenelemente  
+   durchgeführt und andererseits werden die in den Selektionskriterien     
+   übergebenen Tabellen- und Feldnamen auf Vorhandensein im Dictionary     
+   geprüft.                                                                
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte überprüfen Sie die Daten, mit denen der Funktionsbaustein         
+   aufgerufen wird.                                                        
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

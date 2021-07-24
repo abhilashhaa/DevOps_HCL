@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Le numéro de livraison &V1& a été transmis comme point d'entrée dans le 
+   paramètre INOUT_NEXT_LIFNR. Or, ce numéro de livraison ne se trouve pas 
+   dans la table INOUT_LIFNR_TAB. Cette incohérence ne devrait pas         
+   survenir si les valeurs ont été transmises à INOUT_NEXT_LIFNR et        
+   INOUT_LIFNR_TAB en appels consécutifs exactement de la même manière     
+   dont elles ont été renvoyées lors de l'appel précédent du module        
+   fonction.                                                               
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Essayez de trouver la raison pour laquelle ce numéro de livraison       
+   incorrect a été mémorisé dans le paramètre INOUT_NEXT_LIFNR. Il se peut 
+   que, lors du premier appel, le module fonction n'ait pas été appelé à   
+   l'aide du paramètre initial INOUT_NEXT_LIFNR au sein d'une séquence     
+   d'appels bloqués.                                                       
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

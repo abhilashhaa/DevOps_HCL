@@ -1,0 +1,23 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE FR                         
+U1 &USE&                                                                   
+AS Dans cette zone, vous pouvez indiquer l'opérateur de sélection. Sont    
+   autorisés tous les opérateurs qui sont utilisés dans des tables ranges. 
+   Vous trouverez une liste des valeurs autorisées dans les constantes des 
+   <DS:GLOS.3526B1DEAFAB52B9E10000009B38F974>domaines</> affectés.         
+AS <ZH>Remarque</>                                                         
+/  Dans les options <LS>CP</> (modèles) et <LS>NP</> (non modèles), les    
+   zones <LS>LOW</> et <LS>HIGH</> doivent correspondre du type de données 
+   <LS>C</> (caractères) et la zone <LS>LOW</> doit contenir au moins un   
+   caractère générique. De plus, <LS>+ </> masque un seul caractère alors  
+   que <LS>*</> masque une chaîne de caractères, même vide. Les caractères 
+   génériques ne sont autorisés que pour le type de données <LS>C</>.      
+AS Pour plus d'informations concernant les options de sélection et ranges, 
+   consultez la bibliothèque R/3 sous la composante <LS>Programmation ABAP 
+   (BC)</>.                                                                
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

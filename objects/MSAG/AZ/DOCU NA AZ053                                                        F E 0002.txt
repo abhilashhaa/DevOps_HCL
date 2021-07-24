@@ -1,0 +1,14 @@
+U1 &CAUSE&                                                                 
+AS Dans la table IN_TABLE_LIST, une table est sélectionnée alors qu'elle   
+   ne fait pas l'objet d'une lecture pour le type de nomemclature actuel.  
+AS Vous pouvez déterminer le type de nomenclature à sélectionner à l'aide  
+   de SELECT_TABLENAME.                                                    
+AS                                                                         
+AS Exemple : la table DOST n'est pas lue pour les nomenclatures article.   
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

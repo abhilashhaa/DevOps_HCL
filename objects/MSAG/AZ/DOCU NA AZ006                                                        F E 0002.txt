@@ -1,0 +1,9 @@
+U1 &CAUSE&                                                                 
+AS Vous souhaitez rechercher des informations relatives à la table &V1& du 
+   dictionnaire. Or, la table &V1& n'existe pas dans le dictionnaire.      
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Verifiez vos entrées.                                                   
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>D</LANG>
+<ENTRY>Selektionsoperator</ENTRY>
+<LENGTH>50</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>E</LANG>
+<ENTRY>Selection operator</ENTRY>
+<LENGTH>50</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>F</LANG>
+<ENTRY>Opérateur de sélection</ENTRY>
+<LENGTH>50</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>N</LANG>
+<ENTRY>Selectieoperator</ENTRY>
+<LENGTH>50</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>I</ID>
+<KEY>003</KEY>
+<LANG>T</LANG>
+<ENTRY>Seçim işleci</ENTRY>
+<LENGTH>50</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>D</LANG>
+<ENTRY>Hilfsbausteine für Datenbankselektoren</ENTRY>
+<LENGTH>38</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>E</LANG>
+<ENTRY>Help Module for Database Selectors</ENTRY>
+<LENGTH>38</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>F</LANG>
+<ENTRY>Modules de fonction pour sélecteurs de base de données</ENTRY>
+<LENGTH>54</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>N</LANG>
+<ENTRY>Hulpbouwstenen voor selectieparameters database</ENTRY>
+<LENGTH>47</LENGTH>
+</TEXTPOOLT>
+<TEXTPOOLT>
+<ID>R</ID>
+<KEY></KEY>
+<LANG>T</LANG>
+<ENTRY>Veri tabanı seçicisi için yardımcı modüller</ENTRY>
+<LENGTH>43</LENGTH>
+</TEXTPOOLT>
+</TEXTPOOLT>
+</asx:values>
+</asx:abap>

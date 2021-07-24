@@ -1,0 +1,13 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE FR                         
+U1 &USE&                                                                   
+AS Dans cette zone, vous pouvez indiquer les valeurs de sélection pour le  
+   paramètre <LS>LOW </> dans une table range. Cette zone ne peut être     
+   utilisée que pour les cases à cocher de type <LS>CHAR</> et constituées 
+   au plus de 40 caractères.                                               
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

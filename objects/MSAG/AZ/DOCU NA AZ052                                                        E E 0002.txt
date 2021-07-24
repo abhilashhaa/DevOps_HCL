@@ -1,0 +1,12 @@
+U1 &CAUSE&                                                                 
+AS The IDs copied to ID_IN_LIST_XXST (XXST stands for MAST, DOST, ... ,    
+   CLST) do not correspond to the BOM category to be selected.             
+AS The BOM category to be selected is determined using SELECT_TABLENAME.   
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

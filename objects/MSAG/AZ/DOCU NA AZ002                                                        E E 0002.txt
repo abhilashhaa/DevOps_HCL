@@ -1,0 +1,11 @@
+U1 &CAUSE&                                                                 
+AS A check was carried out on the input data for the function module. The  
+   system checks fixed values against data elements and checks if the      
+   table and field names transferred to the selection criteria exist in    
+   the ABAP/4 dictionary.                                                  
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check the data used for calling the function module.                    
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

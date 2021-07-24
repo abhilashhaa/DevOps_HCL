@@ -1,0 +1,8 @@
+U1 &CAUSE&                                                                 
+AS Field &V1& in table &V2& cannot be found in the dictionary.             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Check your entries.                                                     
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

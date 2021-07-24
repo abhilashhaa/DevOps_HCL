@@ -1,0 +1,13 @@
+U1 &CAUSE&                                                                 
+AS Les IDs transmis à ID_IN_LIST_XXST (XXST signifie MAST, DOST, ... ,     
+   CLST) ne correspondent pas au type de nomenclature sélectionné.         
+   SELECT_TABLENAME vous permet de déterminer le type de nomenclature à    
+   sélectionner.                                                           
+AS                                                                         
+AS                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

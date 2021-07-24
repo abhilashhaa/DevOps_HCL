@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS Vous ne pouvez sélectionner des nomenclatures de groupe ou des divisons 
+AS qu'avec l'opérateur de sélection '='.                                   
+U1                                                                         
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

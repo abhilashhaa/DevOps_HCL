@@ -1,0 +1,13 @@
+U1 &DEFINITION&                                                            
+/: INCLUDE PARAMETER OBJECT DOKU ID TX LANGUAGE DE                         
+U1 &USE&                                                                   
+AS In diesem Feld können Sie die Selektionswerte für den Parameter         
+   <LS>HIGH</> in einer Range-Tabelle angeben. Dieses Feld kann nur für    
+   Ankreuzfelder des Typs <LS>CHAR</> mit einer Länge bis zu 40 Zeichen    
+   verwendet werden.                                                       
+U1 &WHAT_TO_DO&                                                            
+AS                                                                         
+U1 &EXAMPLES&                                                              
+AS                                                                         
+U1 &DEPENDENCIES&                                                          
+AS                                                                         

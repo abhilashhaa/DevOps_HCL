@@ -1,0 +1,18 @@
+U1 &CAUSE&                                                                 
+AS Die Daten-Extraktoren bestehen eigentlich aus 2 Teilen:                 
+B1 Ein Schlüssel-Extraktor zur Ermittlung der Schlüsselwerte der           
+   Kopftabelle.                                                            
+B1 Ein Daten-Extraktor, der ausgehend von den Schlüsselwerten die Daten    
+   aller unterstützten Tabellen zurückliefert.                             
+AS Beide Extraktoren bestehen aus jeweils 2 Bausteinen (ein                
+   Initialisierungsbaustein und ein Baustein zur Ermittlung der nächsten   
+   Daten). In Ihrer Anwendung wurde ein Initialisierungsbaustein nicht     
+   aufgerufen.                                                             
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Bitte korrigieren Sie Ihr Programm dahingehend, daß auch die            
+   Initialisierungsbausteine aufgerufen werden.                            
+AS                                                                         
+U1 &SYS_ADMIN&                                                             
+AS                                                                         

@@ -1,0 +1,10 @@
+U1 &CAUSE&                                                                 
+AS You wanted to select data using an extractor and table &V1&. However,   
+   this table is not supported.                                            
+U1 &SYSTEM_RESPONSE&                                                       
+AS                                                                         
+U1 &WHAT_TO_DO&                                                            
+AS Correct your entries for the table that should be used for selecting    
+   the data.                                                               
+U1 &SYS_ADMIN&                                                             
+AS                                                                         
