@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><asx:abap xmlns:asx="http://www.sap.com/abapxml">
+<asx:values>
+<ADDR_PCDFORMAT>
+<ADDR_PCDFORMAT>
+<MANDT>200</MANDT>
+<COUNTRY>IN</COUNTRY>
+<POSTAL_CODE_FORMAT>0000</POSTAL_CODE_FORMAT>
+</ADDR_PCDFORMAT>
+</ADDR_PCDFORMAT>
+</asx:values>
+</asx:abap>
